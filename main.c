@@ -1,11 +1,3 @@
-/* <name>@ohsweetcherry.com | github.com/Sonone32
- * This took way longer than I had expected and the allotted time because I am a bit rusty on ANSI C,
- * and also because this was written 100% via a terminal on Google Cloud with vim and gdb. Hope my
- * persistence means something... And thank you for taking the effort to review my code, have a great
- * day or night. :)
- * Compile with the command "gcc -ansi main.c -lm".
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
